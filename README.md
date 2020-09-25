@@ -35,6 +35,16 @@
 
     1:23 PM Pacific: Set up project in Firebase.
 
+    var firebaseConfig = {
+      apiKey: "AIzaSyAAkdlGe63IVZoVZ9OSmGUTTdL55zaDDg8",
+      authDomain: "pattengoods.firebaseapp.com",
+      databaseURL: "https://pattengoods.firebaseio.com",
+      projectId: "pattengoods",
+      storageBucket: "pattengoods.appspot.com",
+      messagingSenderId: "1043977780302",
+      appId: "1:1043977780302:web:104e1b18e424e83bfa171f"
+    };
+
 ## Languages & Technologies Used:
 
   ### Programming Languages, Libraries, & Frameworks
