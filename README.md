@@ -25,7 +25,9 @@
 
     The word comes from the relatively (and surprisingly) little-known economist Simon Patten. Though most people probably haven't heard of him, he was one of the most influential economic thinkers of the early 20th Century. Patten wrote on a multitude of topics, but some of his signature ideas were (1) that just as the health of soil is a function of the diversity of plant species growing in it, the health of an economy is a function of the diversity and interconnectedness of industry operating therein
 
-    9:57 PM Pacific: Sent f/up email to IT Dept head at former employer to check on internship possibilities
+    9:57 AM Pacific: Sent f/up email to IT Dept head at former employer to check on internship possibilities
+
+    10:40 AM Pacific: Building Logo in GIMP
 
 ## Languages & Technologies Used:
 
