@@ -29,6 +29,8 @@
 
     10:40 AM Pacific: Building Logo in GIMP
 
+    10:56 AM Pacific: Complete first draft logo in GIMP
+
 ## Languages & Technologies Used:
 
   ### Programming Languages, Libraries, & Frameworks
