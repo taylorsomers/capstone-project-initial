@@ -33,6 +33,8 @@
 
     11:55 AM Pacific: Attempting to fix non-functioning monitor
 
+    1:23 PM Pacific: Set up project in Firebase.
+
 ## Languages & Technologies Used:
 
   ### Programming Languages, Libraries, & Frameworks
