@@ -31,6 +31,8 @@
 
     10:56 AM Pacific: Complete first draft logo in GIMP
 
+    11:55 AM Pacific: Attempting to fix non-functioning monitor
+
 ## Languages & Technologies Used:
 
   ### Programming Languages, Libraries, & Frameworks
