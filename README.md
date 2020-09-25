@@ -35,7 +35,7 @@
 
     1:23 PM Pacific: Set up project in Firebase.
 
-    
+    1:57 PM Pacific: Attempt to research and weigh pros/cons of React/Firebase app vs C#/.NET/MVC or C#/.NET/React app
 
 ## Languages & Technologies Used:
 
