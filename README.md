@@ -2,7 +2,6 @@
 
   ### By [Taylor Somers](https://github.com/taylorsomers/)
 
-
 <img align="center" src="" alt="">
 
 <p align="center">
@@ -16,6 +15,15 @@
 
 ## Description
 
+  ### What is a "Pattengood"?
+  
+    "Pattengood" is a term I coined while thinking about this project idea. My working definition is as follows:
+
+    Pattengood, n., A composite asset consisting of (1) an item of personal property and (2) a portfolio of dividend-paying stocks the income from which is specifically allocated toward replacing the item when it breaks or wears out.
+
+    Most of us don't realize it, but everything we own, insofar as we are committed to replacing it when it is no longer functional, is a financial liability; it represents an outflow of cash over the long term. A Pattengood, on the other hand, is something we truly own. Since the item has its own delegated "replacement fund" at work, generating the income necessary to replace it when it has reached the end of its working life, it isn't the drag on our household finances that everyday goods can be.
+
+    The word comes from the relatively (and surprisingly) little-known economist Simon Patten. Though most people probably haven't heard of him, he was one of the most influential economic thinkers of the early 20th Century. Patten wrote on a multitude of topics, but some of his signature ideas were (1) that just as the health of soil is a function of the diversity of plant species growing in it, the health of an economy is a function of the diversity and interconnectedness of industry operating therein
 
 ## Languages & Technologies Used:
 
